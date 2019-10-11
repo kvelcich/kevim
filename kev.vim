@@ -46,9 +46,9 @@ let darkBackground  =   '232'
 " Editor settings
 " --------------------------------
 execute 'hi Normal          ctermfg='.white.'    ctermbg=none    cterm=none'
-execute 'hi Cursor          ctermfg='.yellow.'    ctermbg='.yellow.'    cterm=none'
-hi CursorLine      ctermfg=none    ctermbg=none    cterm=none
-execute 'hi LineNr          ctermfg='.cyan.'   ctermbg=none    cterm=none'
+execute 'hi Cursor          ctermfg='.darkBackground.'    ctermbg='.white.'    cterm=none'
+execute 'hi CursorLine      ctermfg='.darkBackground.'    ctermbg='.white.'    cterm=none'
+execute 'hi LineNr          ctermfg='.lightBlack.'   ctermbg=none    cterm=none'
 hi CursorLineNR    ctermfg=none    ctermbg=none    cterm=none
 
 " -----------------
