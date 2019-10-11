@@ -1,4 +1,5 @@
-A work in progress.
+# Kev Color Scheme For Vim
 
-Thanks to: https://github.com/ggalindezb/vim_colorscheme_template
+This is a work in progress, I have no idea how to write a Vim color scheme...
 
+I used 2 pieces of code to get the color values, but those shouldn't remain in the repo so basically I'm too lazy to credit them.
